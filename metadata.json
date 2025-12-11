@@ -1,0 +1,8 @@
+{
+  "name": "EditFlow - Mobile Creator Studio",
+  "description": "A free, safe, and secure learning platform for mobile editors. Learn, create, and share templates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
